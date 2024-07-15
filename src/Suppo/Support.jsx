@@ -7,7 +7,7 @@ export default function Support() {
       <div className="wrapper">
         <div className="form-box feedback">
           <form action="">
-            <h1>Customer Support</h1>
+            <h1>Admin support</h1>
             <br></br>
             <h2>contact information</h2>
             <div className="input-box">
